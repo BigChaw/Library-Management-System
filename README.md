@@ -1,0 +1,3 @@
+This project is only for testing purpose...
+
+There is across all project pages are static links to find database, so please correct the path according to your place!!! --> SqlConnection connection = new SqlConnection("Your Path");
